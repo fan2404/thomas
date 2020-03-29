@@ -7,12 +7,12 @@ const int SERIAL_SPEED = 9600;
 
 const int PIN = 13;
 const int MIN_ANGLE = 0;
-const int MAX_ANGLE = 90;
+const int MAX_ANGLE = 15;
 const int ROT_SPEED = 30;
 
 const int PORT = 80;
-const char* SSID = "TelekomSucks";
-const char* PW = "FFigin77";
+const char* SSID = "";
+const char* PW = "";
 
 
 /* create objects */
